@@ -108,16 +108,16 @@ img {
     float: left;    
     }
 
-    #why .row>.first,
-    #why .row>.second,
-    #why .row>.third {
-    margin-top: 10px;
-    }
-
     #lezioni img, #steps img {
         width: 20%;
         height: auto;
         margin-top: 20px;
+    }
+
+    #why .row>.first,
+    #why .row>.second,
+    #why .row>.third {
+    margin-top: 10px;
     }
 
     #why .row img {
